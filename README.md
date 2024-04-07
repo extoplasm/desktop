@@ -12,3 +12,5 @@ little desktop pet made with tkinter
 
 inspired by
 https://github.com/wkostusiak/desktop-pet
+and
+https://medium.com/analytics-vidhya/create-your-own-desktop-pet-with-python-5b369be18868
