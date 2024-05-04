@@ -23,10 +23,10 @@ class cube():
         self.label = tk.Label(self.window, bd=0, bg='white')
 
         # event
-        self.idleE = [1, 2, 3]
-        self.sleepE = [4, 5, 6]
-        self.walkLE = [6, 7, 8]
-        self.walkRE = [9, 10, 11]
+        self.idleE = [1, 2]
+        self.sleepE = [3, 4, 5, 6]
+        self.walkLE = [6, 7, 8, 9]
+        self.walkRE = [10, 11]
         self.event = rand.randrange(1, 12)
 
         # start points
